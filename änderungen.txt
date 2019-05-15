@@ -1,0 +1,2 @@
+kundenverwaltung kann nicht bei lagerverwaltung sein
+zb Lagerverwaltung ist ganzes kästchen und in dem sind die einzelnen prozesse (lagerbestand erfassen... die nichts miteinander zu tun haben)
