@@ -1,0 +1,14 @@
+Zu Ändern 
+
+Excel Tabelle mit Arbeitsstunden/Fehlstunden
+
+Klassendiagramm
+Pfeile ändern - Benutzergruppen
+
+Use Case Diagramm
+Extend Lagerverwaltung zu Lagervisualisierung
+Kaufen/Verkaufen im Allgemeinen Diagramm
+Lagerverwaltung- Lagerbestand erfassen ändern? - Workflow ?
+
+GUI
+Diagramm noch „sinnlos“
