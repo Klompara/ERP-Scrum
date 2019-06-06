@@ -1,0 +1,4 @@
+Niedrist => Lieferanten, Kunden 
+Kai => Lager
+Michael => Mitarbeiter, Einfache Buchführung 
+Rene => User , Lagervisu
